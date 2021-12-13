@@ -9,11 +9,11 @@
 	
 &#129419; Estou migrando da moda pra programação, comecei meus estudos em julho/2021. Inicialmente como um hobby, pra salvar minha saude mental na pandemia, mas descobri uma paixão. Sempre amei construir, tornar algo real, isso me levou a moda, e reencontrei isso codando, realizar um projeto me faz me sentir viva. Moda foi um lindo capitulo da minha vida, ja vivi esse sonho, construi meu ateliê, agora ensinei o ofício pra minha mãe, dei o ateliê pra ela e vim conquistar outro sonho, ser uma dev Fullstack &#128187; &#10024;
 	
-&#128218; Atualmente estudando <b>JAVA</b>
+&#128218; Atualmente estudando <b>JAVA, C# & .NET</b>
 	
 &#9876; Espero afiar mais minhas katanas antes de colocar elas como hashi, prender meus cabelos e ir a luta conquistar objetivos e resultados por alguma empresa, e pro meu checklist. Mas se sua procura for ser o sensei de uma padawan que deseja muito aprender tambem trabalhando, estou aqui!
 	
-&#128640; Ja tracei minhas metas e estou indo ao infinito e alem pra atingir todas, mas voce pode me contatar enquanto aida estou aqui na terra pelo email gabrielakamikazi@gmail.com ou meu insta @babyisyourdream. Elon Musk, conto com voce pra espalhar 5g por todo o universo quando eu estiver na velocidade da luz 
+&#128640; Ja tracei minhas metas e estou indo ao infinito e alem pra atingir todas, mas voce pode me contatar enquanto aida estou aqui na terra pelo email womanikkin@gmail.com. Elon Musk, conto com voce pra espalhar 5g por todo o universo quando eu estiver na velocidade da luz 
 
 &#128509; My english level is intermediary, my twin works as a producer, so i help him so many times. Oops, correcting, I had the opportunity to keep up with him and support, learn english and some skills as a social media and design.
 
@@ -24,9 +24,9 @@
 &#128133; Tambem sou ilustradora e UX&I, e pretendo levar essa bagagem comigo
 
 <div>
-  <a href="https://www.linkedin.com/in/babyisyourdream/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=babyisyourdream&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyisyourdream&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://www.linkedin.com/in/womanikkin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=womanikkin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=womanikkin&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -46,9 +46,9 @@
 <div>
   <a href="https://www.youtube.com/channel/UCu6JKN-KOdgQR5Y0BAue_2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/babyisyourdream" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href="https://soundcloud.com/babyisyourdream" target="_blank"><img src="https://img.shields.io/badge/-soundcloud-%ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	 <a href="https://soundcloud.com/womanikkin" target="_blank"><img src="https://img.shields.io/badge/-soundcloud-%ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "gabrielakamikazi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/babyisyourdream" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/womanikkin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <img align="center" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigada!" width="100%" height="auto" src=/assinatura.gif>
 </div>
