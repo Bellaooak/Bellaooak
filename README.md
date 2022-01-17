@@ -9,7 +9,7 @@
 	
 &#129419; Estou migrando da moda pra programação, comecei meus estudos em julho/2021. Inicialmente como um hobby, pra salvar minha saude mental na pandemia, mas descobri uma paixão. Sempre amei construir, tornar algo real, isso me levou a moda, e reencontrei isso codando, realizar um projeto me faz me sentir viva. Moda foi um lindo capitulo da minha vida, ja vivi esse sonho, construi meu ateliê, agora ensinei o ofício pra minha mãe, dei o ateliê pra ela e vim conquistar outro sonho, ser uma dev Fullstack &#128187; &#10024;
 	
-&#128218; Atualmente estudando <b>JAVA, C# & .NET</b>
+&#128218; Atualmente estudando <b>JAVA & SQL</b>
 	
 &#9876; Espero afiar mais minhas katanas antes de colocar elas como hashi, prender meus cabelos e ir a luta conquistar objetivos e resultados por alguma empresa, e pro meu checklist. Mas se sua procura for ser o sensei de uma padawan que deseja muito aprender tambem trabalhando, estou aqui!
 	
