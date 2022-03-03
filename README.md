@@ -25,8 +25,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/babyzinhac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=babykillty&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babykillty&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baebriella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baebriella&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -46,9 +46,9 @@
 <div>
   <a href="https://www.youtube.com/channel/UCu6JKN-KOdgQR5Y0BAue_2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/babyisyourdream" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href="https://soundcloud.com/babykillty" target="_blank"><img src="https://img.shields.io/badge/-soundcloud-%ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	 <a href="https://soundcloud.com/baebriella" target="_blank"><img src="https://img.shields.io/badge/-soundcloud-%ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "gabrielakamikazi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/babykillty" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/baebriella" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <img align="center" alt="Minha foto, dando um beijinho pra qualquer visitante que esteja vendo meu progresso, obrigada!" width="100%" height="auto" src=/assinatura.gif>
 </div>
