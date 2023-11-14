@@ -25,8 +25,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/babyzinhac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bellaooak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellaooak&amp;layout=compact&amp;theme=dracula&amp;hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitisbela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitisbela&amp;layout=compact&amp;theme=dracula&amp;hide_border=true"/>
 </div>
   
 <div style="display: inline_block"><br>
