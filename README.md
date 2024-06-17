@@ -19,7 +19,7 @@
 
 &#128088; My next skill in my wishlist is to learn japanese. I have just started, but learn code and ilustration it's a hobby and a passion for me, so i will study japanese over the weekends, i literally am the type of girl who loves more learn than partys or distractions.
 	
-&#128139; Ela/dela, Voce pode me chamar de Baby que é meu apelido. Meu nome e Gabriela Barbosa. Eu tenho um irmao gemeo chamado Gabriel e o apelido dele e Billy, entao somos billy e baby.
+&#128139; Ela/dela, Voce pode me chamar de Baby que é meu apelido. Meu nome e Iris Lisbela, entao sempre abrevio pra Irisbela. Minha familia e amigos me chamam de Bela, ou Baby.
 	
 &#128133; Tambem sou ilustradora e UX&I, e pretendo levar essa bagagem comigo
 
